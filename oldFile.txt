@@ -1,0 +1,2 @@
+Chaked exceptions - проверяемые исключения
+Unchaked exceptions - не проверяемые исключения
